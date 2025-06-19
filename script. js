@@ -1,0 +1,4 @@
+// Example: dynamically load a message when the page is loaded
+window.addEventListener('DOMContentLoaded', (event) => {
+  console.log("Welcome to my GitHub project! All files are ready to be viewed.");
+});
